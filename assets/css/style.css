@@ -1,3 +1,10 @@
 html, body {
     height: 100%;
 }
+
+.img-fit-card {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+    opacity: 0.5;
+}
