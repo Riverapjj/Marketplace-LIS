@@ -8,3 +8,11 @@ html, body {
     object-fit: cover;
     opacity: 0.5;
 }
+
+.carousel {
+    height: 15vw;
+}
+
+.descripcion {
+    text-align: justify;
+}
