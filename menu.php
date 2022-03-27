@@ -6,10 +6,11 @@
     </a>
     <ul class="list-unstyled ps-0">
         <li class="mb-1">
+            <a href="index.php">
             <button class="btn btn-toggle form-control align-items-center rounded collapsed text-white"
                 data-bs-toggle="collapse" data-bs-target="#home-collapse" aria-expanded="false">
                 <i class="bi bi-house-fill me-2"></i>Home
-            </button>
+            </button></a>
             <!--
                     <div class="collapse" id="home-collapse" style="">
                     <ul class="btn-toggle-nav list-group list-group-flush list-unstyled fw-normal pb-1 small">
@@ -28,15 +29,15 @@
             </button>
             <div class="collapse" id="dashboard-collapse" style="">
                 <ul class="btn-toggle-nav list-group list-group-flush list-unstyled fw-normal pb-1 small">
-                    <li><a style="background-color: rgb(49, 49, 156);" href="#"
+                    <li><a style="background-color: rgb(49, 49, 156);"  href="categoria_hogar.php"
                             class="list-group-item link-light border-0 mt-1 ms-4">Hogar <span
-                                class="badge bg-dark ms-4">53</span></a></li>
-                    <li><a style="background-color: rgb(49, 49, 156);" href="#"
+                                class="badge bg-dark ms-4">4</span></a></li>
+                    <li><a style="background-color: rgb(49, 49, 156);" href="categoria_tecnologia.php"
                             class="list-group-item link-light border-0 mt-1 ms-4">Tecnología <span
-                                class="badge bg-dark ms-4">200</span></a></li>
-                    <li><a style="background-color: rgb(49, 49, 156);" href="#"
+                                class="badge bg-dark ms-4">4</span></a></li>
+                    <li><a style="background-color: rgb(49, 49, 156);" href="categoria_ropa.php"
                             class="list-group-item link-light border-0 mt-1 ms-4">Ropa
-                            <span class="badge bg-dark ms-4">25</span></a></li>
+                            <span class="badge bg-dark ms-4">4</span></a></li>
                 </ul>
             </div>
         </li>
@@ -48,31 +49,36 @@
             </button>
             <div class="collapse" id="orders-collapse" style="">
                 <ul class="btn-toggle-nav list-group list-group-flush list-unstyled fw-normal pb-1 small">
-                    <li><a style="background-color: rgb(49, 49, 156);" href="#"
+                    <li><a style="background-color: rgb(49, 49, 156);"  href="categoria_hogar.php"
                             class="list-group-item link-light border-0 mt-1 ms-4">Hogar <span
-                                class="badge bg-dark ms-4">53</span></a></li>
-                    <li><a style="background-color: rgb(49, 49, 156);" href="#"
+                                class="badge bg-dark ms-4">4</span></a></li>
+                    <li><a style="background-color: rgb(49, 49, 156);" href="categoria_tecnologia.php"
                             class="list-group-item link-light border-0 mt-1 ms-4">Tecnología <span
-                                class="badge bg-dark ms-4">200</span></a></li>
-                    <li><a style="background-color: rgb(49, 49, 156);" href="#"
+                                class="badge bg-dark ms-4">4</span></a></li>
+                    <li><a style="background-color: rgb(49, 49, 156);" href="categoria_ropa.php"
                             class="list-group-item link-light border-0 mt-1 ms-4">Ropa <span
-                                class="badge bg-dark ms-4">25</span></a></li>
-                    <li><a style="background-color: rgb(49, 49, 156);" href="#"
+                                class="badge bg-dark ms-4">4</span></a></li>
+                    <li><a style="background-color: rgb(49, 49, 156);" href="categoria_juguetes.php"
                             class="list-group-item link-light border-0 mt-1 ms-4">Juguetes <span
-                                class="badge bg-dark ms-4">25</span></a></li>
-                    <li><a style="background-color: rgb(49, 49, 156);" href="#"
+                                class="badge bg-dark ms-4">4</span></a></li>
+                    <li><a style="background-color: rgb(49, 49, 156);" href="videojuegos.php"
                             class="list-group-item link-light border-0 mt-1 ms-4">Videojuegos <span
-                                class="badge bg-dark ms-4">25</span></a></li>
-                    <li><a style="background-color: rgb(49, 49, 156);" href="#"
+                                class="badge bg-dark ms-4">4</span></a></li>
+                    <li><a style="background-color: rgb(49, 49, 156);" href="categoria_herramientas.php"
                             class="list-group-item link-light border-0 mt-1 ms-4">Herramientas
-                            <span class="badge bg-dark ms-4">25</span></a></li>
+                            <span class="badge bg-dark ms-4">4</span></a></li>
                 </ul>
             </div>
         </li>
         <li class="border-top my-3"></li>
         <li class="mb-1">
-            <a style="background-color: rgb(49, 49, 156);" href="#"
+            <a style="background-color: rgb(49, 49, 156);"  href="index.html"
                 class="list-group-item link-light border-0 mt-1 ms-4">Atención al cliente</a>
+        </li>
+
+        <li class="mb-1">
+            <a style="background-color: rgb(49, 49, 156);" href="login.php"
+                class="list-group-item link-light border-0 mt-1 ms-4">Iniciar Seccion</a>
         </li>
     </ul>
 </div>

@@ -15,11 +15,11 @@
     <div class="container-fluid m-0">
         <div class="row d-flex">
             <?php
-                include 'views/menu.php';
+                include 'menu.php';
             ?>
             <div class="flex-fill m-0 col-8">
                 <?php
-                    include 'views/buscador.php';
+                    include 'buscador.php';
                 ?>
                 <p class="fs-1 text text-center mt-5">!Todo lo que buscas en un solo lugar!</p>
 
@@ -32,7 +32,7 @@
                     </div>
                 </div>
                 <div class="card m-3">
-                    <img src="assets/img/accesorios.png" class="card-img img-fit-card" alt="...">
+                    <img src="assets/img/antiguedades.jpeg" class="card-img img-fit-card" alt="...">
                     <div class="card-img-overlay d-flex overflow-hidden align-items-center justify-content-center">
                         <h2 class="card-title">Accesorios</h2>
                     </div>
