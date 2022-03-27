@@ -1,7 +1,9 @@
 # Marketplace-LIS
-Proyecto de cátedra para la materia Lenguajes Interpretados en el Cliente (Ciclo 01 - 2022) de la Universidad Don Bosco de El Salvador.
+_Proyecto de cátedra para la materia Lenguajes Interpretados en el Cliente (Ciclo 01 - 2022) de la Universidad Don Bosco de El Salvador._
+
 ##Guías de usuario e instalación
-Las guías de usuario e instalación de encuentran disponibles en la carpeta *Documentos* de este mismo repositorio.
+_Las guías de usuario e instalación de encuentran disponibles en la carpeta *Documentos* de este mismo repositorio._
+
 ##Autores
 - Romeo Alejandro Teos Arévalo
 - Rodrigo Jossue Rodríguez Meléndez
