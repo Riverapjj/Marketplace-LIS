@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>INICIO DE SECCION</title>
+  <title>Incio de sesión</title>
   <link rel="stylesheet" href="assets/css/style2.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
 </head>
@@ -31,7 +31,7 @@
       <div class="pass-txt"><a href="#">Olvido su contraseña?</a></div>
       <input type="submit" value="Login">
     </form>
-    <div class="sign-txt">Crear cuenta? <a href="#">iniciar seccion</a></div>
+    <div class="sign-txt">Crear cuenta? <a href="#">Iniciar sesión</a></div>
     <?php
       if ($_SERVER["REQUEST_METHOD"] == "POST") {
 		if ($_POST['usuario'] == 'joel') {
