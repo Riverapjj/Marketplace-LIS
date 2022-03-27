@@ -78,7 +78,7 @@
 
         <li class="mb-1">
             <a style="background-color: rgb(49, 49, 156);" href="login.php"
-                class="list-group-item link-light border-0 mt-1 ms-4">Iniciar Sesión</a>
+                class="list-group-item link-light border-0 mt-1 ms-4">Iniciar sesión</a>
         </li>
     </ul>
 </div>
