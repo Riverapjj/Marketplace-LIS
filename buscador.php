@@ -10,13 +10,5 @@
             <option value="Los Angeles">
             <option value="Chicago">
         </datalist>
-
-        <button class="btn btn-dark ms-2 text-white">
-            <i class="bi bi-cart4 me-1"></i>Carrito
-            <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-warning text-black">
-                20+
-                <span class="visually-hidden">unread messages</span>
-            </span>
-        </button>
     </div>
 </div>

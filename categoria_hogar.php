@@ -31,6 +31,8 @@
                             <p class="fs-3 fw-bold text text-center text-white">Cama King</p>
                             <p class="fs-5 text text-center text-white">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla voluptatem quasi quis ipsum commodi voluptatum recusandae similique. Earum commodi consectetur tenetur sunt necessitatibus tempore, dolorum porro, officiis quod quis quisquam.</p>
                             <p class="fs-2 text text-center text-white">$199.99</p>
+                            <button style="border-radius: 50px;" class="btn btn-dark ms-2 text-white">
+                                 <i class="bi bi-cart4 me-1"></i>Visitar el Carrito
                         </div>
                     </div>
                 </div>
@@ -41,6 +43,8 @@
                             <p class="fs-3 fw-bold text text-center text-white">Sofá</p>
                             <p class="fs-5 text text-center text-white ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla voluptatem quasi quis ipsum commodi voluptatum recusandae similique. Earum commodi consectetur tenetur sunt necessitatibus tempore, dolorum porro, officiis quod quis quisquam.</p>
                             <p class="fs-2 text text-center text-white">$99.99</p>
+                            <button style="border-radius: 50px;" class="btn btn-dark ms-2 text-white">
+                                 <i class="bi bi-cart4 me-1"></i>Visitar el Carrito
                         </div>
                     </div>
                 </div>
@@ -51,6 +55,8 @@
                             <p class="fs-3 fw-bold text text-center text-white">Comedor</p>
                             <p class="fs-5 text text-center text-white">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla voluptatem quasi quis ipsum commodi voluptatum recusandae similique. Earum commodi consectetur tenetur sunt necessitatibus tempore, dolorum porro, officiis quod quis quisquam.</p>
                             <p class="fs-2 text text-center text-white">$129.99</p>
+                            <button style="border-radius: 50px;" class="btn btn-dark ms-2 text-white">
+                                 <i class="bi bi-cart4 me-1"></i>Visitar el Carrito
                         </div>
                     </div>
                 </div>

@@ -22,27 +22,27 @@
                     include 'buscador.php'
                 ?>
 
-                <p class="fs-1 text text-center mt-5">Herramientas</p>
+                <p class="fs-1 text text-center mt-5">Muebles</p>
 
                 <div class="producto rounded p-4 mb-4" style="background-color: rgb(90, 90, 209);">
                     <div class="row">
-                        <img src="assets/img/hr1.jpg" alt="" class="col-4 align-self-center rounded">
+                        <img src="assets/img/mu1.jpg" style=" height:250px " alt="" class="col-4 align-self-center rounded">
                         <div class="row col-8">
-                            <p class="fs-3 fw-bold text text-center text-white">Pack de Herramientas Da Matt</p>
+                            <p class="fs-3 fw-bold text text-center text-white">sillas</p>
                             <p class="fs-5 text text-center text-white">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla voluptatem quasi quis ipsum commodi voluptatum recusandae similique. Earum commodi consectetur tenetur sunt necessitatibus tempore, dolorum porro, officiis quod quis quisquam.</p>
-                            <p class="fs-2 text text-center text-white">$10.49</p>
+                            <p class="fs-2 text text-center text-white">$45.49</p>
                             <button style="border-radius: 50px;" class="btn btn-dark ms-2 text-white">
-                                 <i class="bi bi-cart4 me-1"></i>Visitar el Carrito
+                                 <i class="bi bi-cart4 me-1"></i>Agregar el Carrito
                         </div>
                     </div>
                 </div>
                 <div class="producto rounded p-4 mb-4" style="background-color: rgb(90, 90, 209);">
                     <div class="row">
-                        <img src="assets/img/hr2.jpg" alt="" class="col-4 align-self-center rounded">
+                        <img src="assets/img/mu2.jpg" alt="" class="col-4 align-self-center rounded">
                         <div class="row col-8">
-                            <p class="fs-3 fw-bold text text-center text-white">First Rate</p>
+                            <p class="fs-3 fw-bold text text-center text-white">mesa</p>
                             <p class="fs-5 text text-center text-white ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla voluptatem quasi quis ipsum commodi voluptatum recusandae similique. Earum commodi consectetur tenetur sunt necessitatibus tempore, dolorum porro, officiis quod quis quisquam.</p>
-                            <p class="fs-2 text text-center text-white">$25.48</p>
+                            <p class="fs-2 text text-center text-white">$40.48</p>
                             <button style="border-radius: 50px;" class="btn btn-dark ms-2 text-white">
                                  <i class="bi bi-cart4 me-1"></i>Agregar el Carrito
                         </div>
@@ -50,11 +50,11 @@
                 </div>
                 <div class="producto rounded p-4 mb-4" style="background-color: rgb(90, 90, 209);">
                     <div class="row">
-                        <img src="assets/img/hr3.jpg" alt="" height="60%" class="col-4 align-self-center rounded">
+                        <img src="assets/img/mu3.jpg" alt="" height="60%" class="col-4 align-self-center rounded">
                         <div class="row col-8">
-                            <p class="fs-3 fw-bold text text-center text-white">Pack Makita</p>
+                            <p class="fs-3 fw-bold text text-center text-white">sillon</p>
                             <p class="fs-5 text text-center text-white">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla voluptatem quasi quis ipsum commodi voluptatum recusandae similique. Earum commodi consectetur tenetur sunt necessitatibus tempore, dolorum porro, officiis quod quis quisquam.</p>
-                            <p class="fs-2 text text-center text-white">$110.99</p>
+                            <p class="fs-2 text text-center text-white">$38.99</p>
                             <button style="border-radius: 50px;" class="btn btn-dark ms-2 text-white">
                                  <i class="bi bi-cart4 me-1"></i>Agregar el Carrito
                         </div>
@@ -62,11 +62,11 @@
                 </div>
                 <div class="producto rounded p-4 mb-4" style="background-color: rgb(90, 90, 209);">
                     <div class="row">
-                        <img src="assets/img/hr4.jpg" alt="" height="60%" class="col-4 align-self-center rounded">
+                        <img src="assets/img/mu4.jpg" style="height: 225px;" alt="" height="60%" class="col-4 align-self-center rounded">
                         <div class="row col-8">
-                            <p class="fs-3 fw-bold text text-center text-white">Black and Decker</p>
+                            <p class="fs-3 fw-bold text text-center text-white">cama</p>
                             <p class="fs-5 text text-center text-white">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla voluptatem quasi quis ipsum commodi voluptatum recusandae similique. Earum commodi consectetur tenetur sunt necessitatibus tempore, dolorum porro, officiis quod quis quisquam.</p>
-                            <p class="fs-2 text text-center text-white">$49.99</p>
+                            <p class="fs-2 text text-center text-white">$35.99</p>
                             <button style="border-radius: 50px;" class="btn btn-dark ms-2 text-white">
                                  <i class="bi bi-cart4 me-1"></i>Agregar el Carrito
                         </div>

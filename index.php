@@ -26,64 +26,50 @@
                 
 
                 <div class="card m-3 mt-5">
+                <a href="antiguedades.php">
                     <img src="assets/img/antiguedades.jpeg" class="card-img img-fit-card" alt="...">
+                     
                     <div class="card-img-overlay d-flex overflow-hidden align-items-center justify-content-center">
                         <h2 class="card-title">Antigüedades</h2>
+                      
                     </div>
+                    </a>
                 </div>
                 <div class="card m-3">
-                    <img src="assets/img/antiguedades.jpeg" class="card-img img-fit-card" alt="...">
+                <a href="accesorios.php">
+                    <img src="assets/img/acc.jpg" class="card-img img-fit-card" alt="...">
                     <div class="card-img-overlay d-flex overflow-hidden align-items-center justify-content-center">
                         <h2 class="card-title">Accesorios</h2>
                     </div>
+                  </a>
                 </div>
                 <div class="card m-3">
+                <a href="arte.php">
                     <img src="assets/img/arte.jpg" class="card-img img-fit-card" alt="...">
                     <div class="card-img-overlay d-flex overflow-hidden align-items-center justify-content-center">
                         <h2 class="card-title">Arte</h2>
                     </div>
+                  </a>
                 </div>
+               
+                
+                
+                
                 <div class="card m-3">
-                    <img src="assets/img/antiguedades.jpeg" class="card-img img-fit-card" alt="...">
-                    <div class="card-img-overlay d-flex overflow-hidden align-items-center justify-content-center">
-                        <h2 class="card-title">Bebés</h2>
-                    </div>
-                </div>
-                <div class="card m-3">
-                    <img src="assets/img/antiguedades.jpeg" class="card-img img-fit-card" alt="...">
-                    <div class="card-img-overlay d-flex overflow-hidden align-items-center justify-content-center">
-                        <h2 class="card-title">Electrónicos</h2>
-                    </div>
-                </div>
-                <div class="card m-3">
-                    <img src="assets/img/antiguedades.jpeg" class="card-img img-fit-card" alt="...">
-                    <div class="card-img-overlay d-flex overflow-hidden align-items-center justify-content-center">
-                        <h2 class="card-title">Cuidado personal</h2>
-                    </div>
-                </div>
-                <div class="card m-3">
-                    <img src="assets/img/antiguedades.jpeg" class="card-img img-fit-card" alt="...">
-                    <div class="card-img-overlay d-flex overflow-hidden align-items-center justify-content-center">
-                        <h2 class="card-title">Ropa de mujer</h2>
-                    </div>
-                </div>
-                <div class="card m-3">
-                    <img src="assets/img/antiguedades.jpeg" class="card-img img-fit-card" alt="...">
-                    <div class="card-img-overlay d-flex overflow-hidden align-items-center justify-content-center">
-                        <h2 class="card-title">Ropa de hombre</h2>
-                    </div>
-                </div>
-                <div class="card m-3">
-                    <img src="assets/img/antiguedades.jpeg" class="card-img img-fit-card" alt="...">
+                <a href="muebles.php">
+                    <img src="assets/img/mue.jpg" class="card-img img-fit-card" alt="...">
                     <div class="card-img-overlay d-flex overflow-hidden align-items-center justify-content-center">
                         <h2 class="card-title">Muebles</h2>
                     </div>
+                    </a>
                 </div>
                 <div class="card m-3">
+                <a href="vehiculo.php">
                     <img src="assets/img/vehiculos.webp" class="card-img img-fit-card" alt="...">
                     <div class="card-img-overlay d-flex overflow-hidden align-items-center justify-content-center">
                         <h2 class="card-title">Vehículos</h2>
                     </div>
+                    </a>
                 </div>
             </div>
         </div>

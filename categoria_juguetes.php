@@ -24,33 +24,39 @@
 
                 <p class="fs-1 text text-center mt-5">Juguetes</p>
 
-                <div class="producto rounded p-4 mb-4" style="background-color: rgb(90, 90, 209);">
+                <div class="producto rounded p-4 mb-4" style=" background-color: rgb(90, 90, 209);">
                     <div class="row">
                         <img src="assets/img/j1.jpg" alt="" class="col-4 align-self-center rounded">
-                        <div class="row col-8">
+                        <div class="row col-8" >
                             <p class="fs-3 fw-bold text text-center text-white">buuz lightyear</p>
                             <p class="fs-5 text text-center text-white">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla voluptatem quasi quis ipsum commodi voluptatum recusandae similique. Earum commodi consectetur tenetur sunt necessitatibus tempore, dolorum porro, officiis quod quis quisquam.</p>
                             <p class="fs-2 text text-center text-white">$15.49</p>
+                            <button style="border-radius: 50px;"class="btn btn-dark ms-2 text-white">
+                                 <i class="bi bi-cart4 me-1"></i>Agregar al Carrito
                         </div>
                     </div>
                 </div>
                 <div class="producto rounded p-4 mb-4" style="background-color: rgb(90, 90, 209);">
                     <div class="row">
                         <img src="assets/img/j2.jpg" alt="" class="col-4 align-self-center rounded">
-                        <div class="row col-8">
+                        <div class="row col-8" >
                             <p class="fs-3 fw-bold text text-center text-white">play_doh</p>
                             <p class="fs-5 text text-center text-white ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla voluptatem quasi quis ipsum commodi voluptatum recusandae similique. Earum commodi consectetur tenetur sunt necessitatibus tempore, dolorum porro, officiis quod quis quisquam.</p>
                             <p class="fs-2 text text-center text-white">$10.48</p>
+                            <button style="border-radius: 50px;" class="btn btn-dark ms-2 text-white">
+                                 <i class="bi bi-cart4 me-1"></i>Agregar el Carrito
                         </div>
                     </div>
                 </div>
-                <div class="producto rounded p-4 mb-4" style="background-color: rgb(90, 90, 209);">
-                    <div class="row">
+                <div class="producto rounded p-4 mb-4" style=" background-color: rgb(90, 90, 209);">
+                    <div class="row" >
                         <img src="assets/img/j3.jpg" alt="" height="60%" class="col-4 align-self-center rounded">
-                        <div class="row col-8">
+                        <div class="row col-8" >
                             <p class="fs-3 fw-bold text text-center text-white">Baby yoda</p>
                             <p class="fs-5 text text-center text-white">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla voluptatem quasi quis ipsum commodi voluptatum recusandae similique. Earum commodi consectetur tenetur sunt necessitatibus tempore, dolorum porro, officiis quod quis quisquam.</p>
                             <p class="fs-2 text text-center text-white">$25.99</p>
+                            <button style="border-radius: 50px;"  class="btn btn-dark ms-2 text-white">
+                                 <i class="bi bi-cart4 me-1"></i>Agregar el Carrito
                         </div>
                     </div>
                 </div>
@@ -61,6 +67,8 @@
                             <p class="fs-3 fw-bold text text-center text-white">Robot</p>
                             <p class="fs-5 text text-center text-white">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla voluptatem quasi quis ipsum commodi voluptatum recusandae similique. Earum commodi consectetur tenetur sunt necessitatibus tempore, dolorum porro, officiis quod quis quisquam.</p>
                             <p class="fs-2 text text-center text-white">$22.99</p>
+                            <button style="border-radius: 50px;" class="btn btn-dark ms-2 text-white">
+                                 <i class="bi bi-cart4 me-1"></i>Agregar el Carrito
                         </div>
                     </div>
                 </div>
